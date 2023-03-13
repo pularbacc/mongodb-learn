@@ -1,0 +1,36 @@
+
+# link
+
+- https://cloud.mongodb.com
+
+- https://learn.mongodb.com
+- https://www.mongodb.com/docs
+- https://www.mongodbtutorial.org
+- https://www.mongodb.com/basics
+
+
+# atlas
+
+# Collections
+- A collection is a group of documents.
+- Collections typically store documents that have similar contents.
+
+# Document 
+- JSON document
+- Each document has a unique identifier
+- A document typically stores information about one object and any of its related metadata. 
+
+
+       [Orangizations]
+            |
+            +
+        [projects]
+            |
+            +
+        [Databases]
+            |
+            +
+        [Clusters]
+            |
+            +
+        [Documents]

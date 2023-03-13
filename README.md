@@ -17,4 +17,4 @@ node connect.js
 Try run different files ^.^
 
 # Docs
-In files docs.txt
+Check folder docs
