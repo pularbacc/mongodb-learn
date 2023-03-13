@@ -6,7 +6,7 @@ This is my GitHub repository documenting my journey of learning MongoDB.
 To run code:
 
 add file .env with value URL_MONGO is your url connect to mongodb
-Ex: URL_MONGO = ""mongodb+srv://<username>:<password>@clustername.mongodb.net/test?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true";"
+Ex: URL_MONGO = "mongodb+srv://<username>:<password>@clustername.mongodb.net/test?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true"
 
 ``` bash
 yarn
